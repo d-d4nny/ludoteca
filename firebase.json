@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ludoteca-5d95a",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
